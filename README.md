@@ -1,3 +1,76 @@
+Skip to content
+Navigation Menu
+amalpariyadan
+Seaphish
+
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+1
+Insights
+Settings
+Seaphish
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
 # Seaphish 🐟
 
 **Seaphish** is an open-source phishing simulation tool built for educational and ethical cybersecurity research. It uses PHP to host phishing pages locally, Cloudflared to expose them via secure public tunnels, and Bash scripts to automate setup and deployment. The HTML templates used in this project are adapted from [Zphisher](https://github.com/htr-tech/zphisher).
@@ -28,10 +101,15 @@ See the [LICENSE](LICENSE) file for full details.
 
 - HTML templates adapted from [Zphisher](https://github.com/htr-tech/zphisher)
 - [Cloudflared](https://github.com/cloudflare/cloudflared) by Cloudflare
-- Bash scripting and automation by [your name or handle]
+- Bash scripting and automation by [@amalpariyadan]
 
 ---
 
 ## 💬 Contact
 
 For questions, suggestions, or collaboration, feel free to reach out via GitHub Issues or Pull Requests.
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing Seaphish/README.md at main · amalpariyadan/Seaphish 
