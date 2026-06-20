@@ -34,9 +34,4 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## 💬 Contact
 
-For questions, suggestions, or collaboration, feel free to reach out via GitHub Issues or Pull Requests.
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing Seaphish/README.md at main · amalpariyadan/Seaphish 
+For questions, suggestions, or collaboration, feel free to reach out via GitHub Issues or Pull Requests. 
